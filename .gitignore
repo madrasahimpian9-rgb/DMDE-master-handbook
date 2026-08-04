@@ -1,0 +1,38 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+.tmp/
+temp/
+
+# Build and generated outputs
+dist/
+build/
+coverage/
+.cache/
+
+# Dependency directories
+node_modules/
+vendor/
+.venv/
+venv/
+
+# Environment and local configuration files
+.env
+.env.*
+!.env.example
+
+# Archive and backup files
+*.bak
+*.backup
+*.zip
+*.tar.gz
